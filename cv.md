@@ -10,7 +10,7 @@
  *Nationality*: Russian  
 
 ## Education
-*Dates (from - to)*: 2014-2019
+*Dates (from - to)*: 2014-2019  
 *Name of organization* : __Omsk State Technical University__  
 *Programm of education* : Information technology security in law enforcement   
 *Title* : Information security specialist  
